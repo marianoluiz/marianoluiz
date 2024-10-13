@@ -2,7 +2,7 @@
 
 **`Web Developer`**
 
-I am a <span style="color: pink;">developer</span> and a relentless learner who continuously thrives in the field of technology. When I'm not coding up a storm, you can find me enhancing my professional brand and exploring new ventures. I love tackling challenges and turning complex problems into user-friendly solutions. <span style="color: pink;">Let’s build together</span>!
+I am a <span style="color: pink;">developer</span> and a learner who continuously thrives in the field of technology. When I'm not coding up a storm, you can find me enhancing my professional brand and exploring new ventures. I love tackling challenges and turning complex problems into user-friendly solutions. <span style="color: pink;">Let’s build together</span>!
 
 ---
 
