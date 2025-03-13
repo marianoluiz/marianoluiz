@@ -2,7 +2,8 @@
 
 **`Web Developer`**
 
-Hello, I am a developer and a learner who continuously thrives in the field of technology.
+I am a developer and a learner who thrives in the field of Web Development and Artificial Intelligence.
+
 ---
 
 ### 🤖 Languages and Tools
@@ -18,5 +19,3 @@ Hello, I am a developer and a learner who continuously thrives in the field of t
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 <br />
-
-#
