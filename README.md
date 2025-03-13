@@ -2,8 +2,7 @@
 
 **`Web Developer`**
 
-I am a developer and a learner who continuously thrives in the field of technology. When I'm not coding up a storm, you can find me enhancing my professional brand and exploring new ventures. Let’s build together!
-
+Hello, I am a developer and a learner who continuously thrives in the field of technology.
 ---
 
 ### 🤖 Languages and Tools
