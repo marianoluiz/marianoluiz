@@ -26,3 +26,12 @@ I am a developer and a learner who thrives in the field of technology. Visit my 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![C lang](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+<br/><br/><br/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianoluiz&layout=compact&show_icons=true&theme=transparent" 
+    width="500" 
+    alt="Top Langs"
+  />
+</p>
