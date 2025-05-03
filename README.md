@@ -36,7 +36,7 @@ I am a developer and a learner who thrives in the field of technology. Visit my 
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianoluiz&layout=compact&show_icons=true&theme=transparent" 
-    width="400" 
+    width="300" 
     alt="Top Languages"
   />
 </p>
