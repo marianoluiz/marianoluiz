@@ -6,7 +6,7 @@ I am a developer and a learner who thrives in the field of technology. Visit my 
 
 ---
 
-### 🤖 Languages and Tools
+### 🤖 Technology Stacks
 ![React.js](https://img.shields.io/badge/react.js-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
