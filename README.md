@@ -2,7 +2,8 @@
 
 **`Web Developer`**
 
-I am a developer and a learner who thrives in the field of technology. Visit my 📌 [Web Portfolio](https://luiz-webfolio.vercel.app/).
+I am a developer and a learner who thrives in the field of technology.  <br/>
+📌 [Web Portfolio](https://luiz-webfolio.vercel.app/)
 
 <hr/>
 
