@@ -23,6 +23,7 @@ I am a developer and a learner who thrives in the field of technology. 📌 [Web
   <img src="https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase-%23DD2C00?style=for-the-badge&logo=firebase"/>
   <img src="https://img.shields.io/badge/node.js-%235FA04E?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%20Router-%23CA4245?style=for-the-badge&logo=react%20router&logoColor=white"/>
   <img src="https://img.shields.io/badge/redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
