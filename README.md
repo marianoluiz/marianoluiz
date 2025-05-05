@@ -1,8 +1,6 @@
 ## 👾 marianoluiz 
 
-**`Software Developer`**
-
-I am a developer and a learner who thrives in the field of technology. 📌 [Web Portfolio](https://luiz-webfolio.vercel.app/)
+I am a **`Software Developer`** and a learner who thrives in the field of technology. 📌 [Web Portfolio](https://luiz-webfolio.vercel.app/)
 
 <hr/>
 
