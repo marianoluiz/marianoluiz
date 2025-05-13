@@ -30,13 +30,3 @@ I am a **`Software Developer`** and a learner who thrives in the field of techno
   <img src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
-
-<br/>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianoluiz&layout=compact&show_icons=true&theme=transparent" 
-    width="300" 
-    alt="Top Languages"
-  />
-</p>
