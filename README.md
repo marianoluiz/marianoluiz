@@ -1,6 +1,6 @@
 ## 👾 marianoluiz 
 
-I am a **`Software Developer`** who has a passion in innovating. 📌 [Web Portfolio](https://luiz-webfolio.vercel.app/)
+I am a **`Software Developer`** who has a passion in innovation. 📌 [Web Portfolio](https://luiz-webfolio.vercel.app/)
 
 <hr/>
 
