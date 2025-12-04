@@ -4,7 +4,7 @@ I am a **`Software Developer`** who has a passion in building. 📌 [Web Portfol
 
 <hr/>
 
-<h3>🤖 Technology Stacks</h3>
+
 
 <p>
   <img src="https://img.shields.io/badge/react.js-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
