@@ -1,6 +1,6 @@
 ## 👾 marianoluiz 
 
-I am a **`Software Developer`** who has a passion in building. 📌 [Web Portfolio](https://luiz-webfolio.vercel.app/)
+I am a **`Software Developer`** who has a passion in building. 📌 [Web Portfolio](https://marianoluiz.dev/)
 
 <hr/>
 
@@ -11,7 +11,6 @@ I am a **`Software Developer`** who has a passion in building. 📌 [Web Portfol
   <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/express.js-%23000000?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django"&logoColor=white">
   <img src="https://img.shields.io/badge/flask-%23000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-red?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -26,9 +25,6 @@ I am a **`Software Developer`** who has a passion in building. 📌 [Web Portfol
   <img src="https://img.shields.io/badge/firebase-%23DD2C00?style=for-the-badge&logo=firebase"/>
   <img src="https://img.shields.io/badge/node.js-%235FA04E?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
