@@ -1,6 +1,6 @@
 ## 👾 marianoluiz 
 
-A **`Software Developer`** who needs money. 📌 [Web Portfolio](https://me.pickltech.com/)
+A **`Software Developer`** who loves money. 📌 [Web Portfolio](https://me.pickltech.com/)
 
 <hr/>
 
